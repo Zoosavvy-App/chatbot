@@ -3,3 +3,9 @@ gunicorn
 tensorflow
 numpy
 pillow
+pandas
+string
+os
+random
+json
+pickle
